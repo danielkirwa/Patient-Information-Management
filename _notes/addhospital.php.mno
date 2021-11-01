@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_HospitalDetialsSet" value="name:hospitalID;datatype:string,name:hospitalName;datatype:string,name:adrress;datatype:string,name:location;datatype:string,name:contact;datatype:string" />
+</info>
